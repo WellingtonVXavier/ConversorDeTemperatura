@@ -1,1 +1,5 @@
-# conversor-de-fahrenheit-para-celsius
+# conversor-de-Temperatura
+
+##
+
+# Convertendo Celsius para Fahrenheit.
