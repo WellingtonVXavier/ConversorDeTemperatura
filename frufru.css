@@ -1,7 +1,25 @@
 @charset "UTF-8";
 
-body{
+body 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    background-color: rgb(2, 48, 48);
+}
+
+#formulario
+{
+    margin-top: 10%;
     background-color: aqua;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    width: 18%;
+    padding: 50px;
+    border-radius: 25%;
+}
+
+.btn
+{
+    margin-top: 5px;
+    display: flex;
+    position: relative;
+    left: 58px;
 }
